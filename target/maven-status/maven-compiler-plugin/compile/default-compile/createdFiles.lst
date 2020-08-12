@@ -1,0 +1,9 @@
+io\transwarp\inceptor\hdfs\HttpfsOperationTest.class
+io\transwarp\inceptor\udf\UploadImage.class
+io\transwarp\inceptor\hdfs\HDFSOperationTest.class
+io\transwarp\inceptor\hdfs\HttpfsOperation.class
+io\transwarp\inceptor\udf\ExtractFileUDF.class
+io\transwarp\inceptor\udf\FileUtil.class
+io\transwarp\inceptor\Main.class
+io\transwarp\inceptor\hdfs\HDFSOperation.class
+io\transwarp\inceptor\udf\UploadImage1.class
